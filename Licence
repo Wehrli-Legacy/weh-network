@@ -54,3 +54,15 @@ All rights not expressly granted are reserved by Wehrli Legacy.
 9. Governing Interpretation
 
 Any permission not expressly granted under this license is prohibited unless separately authorized in writing by Wehrli Legacy.
+
+
+Depois de criar esse arquivo, no `README.md` mantenha a seção de licença assim:
+
+```markdown
+## License
+
+This repository is source-available, not open source.
+
+The code is published for transparency, technical review, exchange listing review, and ecosystem documentation. Commercial use, resale, redistribution, creation of competing networks, derivative coins, derivative products, or use of the WEH / Wehrli Legacy brand is prohibited without prior written authorization from Wehrli Legacy.
+
+See `LICENSE`, `TRADEMARKS.md`, and `COMMERCIAL-LICENSE.md`.
