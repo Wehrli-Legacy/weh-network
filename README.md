@@ -12,5 +12,11 @@ The network uses a proprietary ledger model with internal block generation, wall
 - Internal mining blocks
 - Explorer and API infrastructure
 - Exchange-ready technical endpoints
-- 
 Update license to WEH Network Source-Available License
+## License
+
+This repository is source-available, not open source.
+
+The code is published for transparency, technical review, exchange listing review, and ecosystem documentation. Commercial use, resale, redistribution, creation of competing networks, derivative coins, derivative products, or use of the WEH / Wehrli Legacy brand is prohibited without prior written authorization from Wehrli Legacy.
+
+See `LICENSE`, `TRADEMARKS.md`, and `COMMERCIAL-LICENSE.md`.
