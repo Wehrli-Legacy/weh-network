@@ -1,9 +1,7 @@
-# weh-network
-WEH Network — Native centralized digital coin infrastructure by Wehrli Legacy, including explorer, API, wallet logic, Mining Dividends, and technical documentation.
 # WEH Network
 
 WEH is a native centralized digital coin operated by Wehrli Legacy.
-The network uses a proprietary ledger model with internal block generation, wallet-based accounting, API-driven explorer data, and a time-locked reward mechanism called Mining Dividends.
+The network uses a proprietary ledger model with internal block generation, wallet-based accounting, API-driven explorer data, and a time-locked reward mechanism called Mining Dividends. WEH Network — Native centralized digital coin infrastructure by Wehrli Legacy, including explorer, API, wallet logic, Mining Dividends, and technical documentation.
 
 ## Key Features
 
