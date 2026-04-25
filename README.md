@@ -12,3 +12,5 @@ The network uses a proprietary ledger model with internal block generation, wall
 - Internal mining blocks
 - Explorer and API infrastructure
 - Exchange-ready technical endpoints
+- 
+Update license to WEH Network Source-Available License
